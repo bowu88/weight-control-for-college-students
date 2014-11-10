@@ -6,4 +6,4 @@
 
 ## Link
 
-http://zenozeng.github.io/Weight-Control-for-College-Students/
+http://zenozeng.github.io/weight-control-for-college-students
