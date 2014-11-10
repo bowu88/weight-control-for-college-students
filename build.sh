@@ -1,1 +1,1 @@
-pandoc README.md --toc --standalone > index.html
+pandoc README.md --toc --standalone --html5  --include-in-header forkmeongithub.html  -c styles.css > index.html
