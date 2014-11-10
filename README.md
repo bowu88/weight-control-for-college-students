@@ -1,6 +1,6 @@
 # 针对大学生的体重控制——从食不过量，天天运动说起
 
-Time-stamp: \<2014-11-10 16:25:29 Zeno Zeng\>
+Time-stamp: \<2014-11-10 16:39:28 Zeno Zeng\>
 
 我尽量使我所说有出处可查，
 但我毕竟不是专家，
@@ -39,6 +39,12 @@ Time-stamp: \<2014-11-10 16:25:29 Zeno Zeng\>
 [^空腹水果]: 北方园艺. 空腹时不能吃的水果[J]. 北方园艺, 2011(10):127
 
 [^学前营养学]: 果壳网. 我在《学前营养学》这本书上看到关于空腹不宜吃的水果有西红柿、柿子、香蕉、橘子、山楂、甘蔗、鲜荔枝，为什么不宜空腹吃这些水果？[EB/OL].[2014-11-10]. http://www.guokr.com/question/406106/
+
+### Etc
+
+一说饭前喝汤能够降低食欲[^饭前喝汤]，但似乎论证不够可靠，我这里顺带一提。
+
+[^饭前喝汤]: 果壳网. 饭前喝汤有效降低食欲[EB/OL].[2014-11-10]. http://www.liuyanbaike.com/article/1271/
 
 ### 关于夜间学习
 
@@ -110,7 +116,7 @@ Time-stamp: \<2014-11-10 16:25:29 Zeno Zeng\>
 
 ## Known Issues
 
-https://github.com/zenozeng/Weight-Control-for-College-Students/issues
+[https://github.com/zenozeng/Weight-Control-for-College-Students/issues](https://github.com/zenozeng/Weight-Control-for-College-Students/issues)
 
 ## License
 
