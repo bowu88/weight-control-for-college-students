@@ -1,6 +1,6 @@
 # 针对大学生的体重控制——从食不过量，天天运动说起
 
-Time-stamp: \<2014-11-10 16:14:16 Zeno Zeng\>
+Time-stamp: \<2014-11-10 16:25:29 Zeno Zeng\>
 
 我尽量使我所说有出处可查，
 但我毕竟不是专家，
@@ -30,12 +30,15 @@ Time-stamp: \<2014-11-10 16:14:16 Zeno Zeng\>
 [^餐前水果]
 
 但注意柿子[^柿子]、西红柿、橘子、菠萝、山楂、黑枣等水果不宜在空腹食用。[^空腹水果]
+一说香蕉、甘蔗、鲜荔枝也不能空腹吃[^学前营养学]
 
 [^餐前水果]: 中国营养学会. 中国居民膳食指南[M]. 拉萨:西藏人民出版社,2010:20.
 
 [^柿子]: 果壳网. 空腹吃柿子易引发胃结石[EB/OL].[2014-11-10]. http://www.liuyanbaike.com/article/1571/
 
 [^空腹水果]: 北方园艺. 空腹时不能吃的水果[J]. 北方园艺, 2011(10):127
+
+[^学前营养学]: 果壳网. 我在《学前营养学》这本书上看到关于空腹不宜吃的水果有西红柿、柿子、香蕉、橘子、山楂、甘蔗、鲜荔枝，为什么不宜空腹吃这些水果？[EB/OL].[2014-11-10]. http://www.guokr.com/question/406106/
 
 ### 关于夜间学习
 
@@ -104,3 +107,11 @@ Time-stamp: \<2014-11-10 16:14:16 Zeno Zeng\>
     麦格尼格尔吸收了心理学、神经学和经济学等学科的最新洞见，为斯坦福大学继续教育项目开设了一门叫做“意志力科学”的课程，参与过这门课程的人称其能够“改变一生”。这门课程就是《自控力》一书的基础。本书为读者提供了清晰的框架，讲述了什么是自控力，自控力如何发生作用，以及为何自控力如此重要。[^自控力]
 
 [^自控力]: douban.com. 自控力[EB/OL].[2014-11-10]. http://book.douban.com/subject/10786473/
+
+## Known Issues
+
+https://github.com/zenozeng/Weight-Control-for-College-Students/issues
+
+## License
+
+[Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)](http://creativecommons.org/licenses/by-nc-sa/3.0/)
